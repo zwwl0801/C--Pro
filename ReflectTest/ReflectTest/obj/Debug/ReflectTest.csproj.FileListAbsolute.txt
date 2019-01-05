@@ -1,0 +1,12 @@
+F:\VS1\ReflectTest\ReflectTest\bin\Debug\ReflectTest.exe.config
+F:\VS1\ReflectTest\ReflectTest\bin\Debug\ReflectTest.exe
+F:\VS1\ReflectTest\ReflectTest\bin\Debug\ReflectTest.pdb
+F:\VS1\ReflectTest\ReflectTest\obj\Debug\ReflectTest.exe
+F:\VS1\ReflectTest\ReflectTest\obj\Debug\ReflectTest.pdb
+F:\VS1\ReflectTest\ReflectTest\obj\Debug\ReflectTest.csprojResolveAssemblyReference.cache
+F:\MyProjects\MyVS\CSharp\ReflectTest\ReflectTest\bin\Debug\ReflectTest.exe.config
+F:\MyProjects\MyVS\CSharp\ReflectTest\ReflectTest\obj\Debug\ReflectTest.exe
+F:\MyProjects\MyVS\CSharp\ReflectTest\ReflectTest\obj\Debug\ReflectTest.pdb
+F:\MyStudy\ReflectTest\ReflectTest\bin\Debug\ReflectTest.exe.config
+F:\MyStudy\ReflectTest\ReflectTest\obj\Debug\ReflectTest.exe
+F:\MyStudy\ReflectTest\ReflectTest\obj\Debug\ReflectTest.pdb
